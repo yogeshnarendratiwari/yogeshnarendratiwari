@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yogesh Narendra Tiwari</h1>
-<h3 align="center">A passionate Android App developer from India</h3>
+<h3 align="center">A passionate App developer from India</h3>
 <br>
 <p>--------------------------------------------------------------------------------------------------------------------------------------------------</p>
 <br>
